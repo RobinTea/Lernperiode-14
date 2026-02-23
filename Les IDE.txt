@@ -1,0 +1,68 @@
+Les IDE
+
+Mobile App
+Application
+Website
+
+---
+3 sign language (with cam) morse code reader translator
+---
+1 room editor <- doesw not have to be 3D
+3 sign language (with cam) morse code reader translator
+
+---
+
+1  diary -THE VISION pivex / Standort, entertainment link, sharable
+3  room editor <- doesw not have to be 3D
+3  sign language (with cam) morse code reader translator
+1  flightradar but trains
+...
+
+
+browser
+GIT -
+linux distro
+side scroll
+cloud / server
+(f1 - hub?)
+
+shared music
+
+app - vertrauenwürdigkeit website
+
+crowdfunding app
+smart study - Lernplan / orga
+Wecker -sleep improvement app
+Game -website?
+aim trainer
+sbb visiualizer
+
+
+casino slotmachine
+black jack counter
+fitness tracker - recommendations
+finance tracker
+
+
+Monopoly
+preis vergleicher
+
+---
+
+no ai
+
+
+ai chatbot -> Thema?
+
+---
+camy
+
+object detecter
+age predictor
+spells
+
+
+---
+pc builder
+freaky counter
+FREAKY AI
